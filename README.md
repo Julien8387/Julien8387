@@ -9,4 +9,4 @@
 
 🌱 En train d'apprendre : Flutter\\Dart
 
-📫 Comment me joindre : bellazini.julien@gmail.com ou linkedin.com/in/julien-bellazini/
+📫 Comment me joindre : julien.alt.dev@gmail.com ou linkedin.com/in/julien-bellazini/
